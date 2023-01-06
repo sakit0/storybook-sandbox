@@ -29,7 +29,7 @@
     "@types/storybook__react": "^4.0.2",
     "babel-loader": "^8.0.6",
     "react-docgen-typescript-loader": "^3.1.0",
-    "storybook": "^1.0.0",
+    "storybook": "^6.5.15",
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.3",
     "webpack": "^4.39.1",
